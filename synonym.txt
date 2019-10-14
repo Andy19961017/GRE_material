@@ -1,0 +1,209 @@
+使惡化 ==> exacerbate, aggravate, deteriorate
+減輕 ==> alleviate, mitigate, palliate, mollify
+改善 ==> ameliorate, improve
+激怒 ==> exasperate, enrage, incense, infuriate, inflame, chafe, pique, aggravate
+安撫 ==> conciliate, propitiate, mollify, soothe, placate, appease, pacify
+譴責，批評 ==> execrate, villify, censure, pan, condemn, decry, denounce, reprehend, reprobate, reprove, excoriate, impugn, rebuke, reproach, reprimand, revile, upbraid, lambaste
+誹謗 ==> villify, libel, denigrate, malign, defame, calumniate,
+讚美 ==> extol, exalt, laud, panegyrize, eulogize, commend, acclaim, celebrate
+增加 ==> augment, mount, magnify, burgeon, wax, extend, amplify, aggrandize
+減少 ==> abate, diminish, lessen, taper, abridge, shrink, ebb, allay, wane, subside, dwindle
+煽動 ==> incite, instigate, foment, rouse, stir up
+平息 ==> quell, squash, squelch, suppress
+延長 ==> elongate, prolong, protract
+縮短 ==> truncate, curtail, abridge, abbreviate
+阻礙 ==> impede, hamper, obstruct, thwart, foil, stymie
+助長，協助 ==> catalyze, precipitate, abet, facilitate
+力勸，敦促 ==> exhort, urge
+束縛 ==> shackle, fetter
+釋放 ==> release, liberate
+分離 ==> divorce, dissolve, cleave, segregate, sunder, disintegrate
+疏遠 ==> estrange, alienate
+合併 ==> amalgamate, merge, consolidate, yoke, link, compound, fuse, blend
+糾纏 ==> embroil, tangle, entangle, intertwine, interweave
+煩擾 ==> badger, bother, fret, vex
+擺脫 ==> extricate, disentangle, untangle
+痛恨 ==> abhor, loathe, detest, abominate
+輕視 ==> belittle, despise, disdain, flout, scorn
+喜愛 ==> adore, admire
+尊崇 ==> regard, revere, venerate
+恐嚇 ==> daunt, cow, intimidate
+使慌亂 ==> fluster, discompose, disquiet, perturb, agitate
+畏縮 ==> flinch, quail, cower
+猶豫 ==> demur, hesitate, waver, vacillate
+否認 ==> gainsay, contravene, repudiate, deny
+反駁 ==> refute, confound, disprove, falsify, controvert
+證實 ==> affirm, assert, aver
+改變 ==> veer, change, convert, transform, adapt, alter
+定罪，控告 ==> charge, indict, incriminate, accuse
+澄清，證明無罪 ==> vindicate, acquit, exonerate, exculpate, discharge
+裝飾 ==> embellish, decorate, adorn
+使困窘 ==> abash, discomfit, disconcert
+假裝 ==> affect, feign, simulate, assume
+懲罰 ==> chastise, punish
+破壞 ==> mar, blemish, impair, vitiate, tarnish
+嘲笑 ==> flout, gibe, jeer
+放棄 ==> relinquish, waive, abandon
+侵犯 ==> infringe, trespass, encroach
+浪費 ==> squander, dissipate, fritter
+誘惑 ==> allure, lure, inveigle, entice, seduce, tempt
+哄騙 ==> cajole, coax, wheedle, blandish
+愚鈍 ==> obtuseness, bluntness
+精明，敏銳 ==> shrewdness, discernment, acumen, perspicacity, keenness
+拖延，耽擱 ==> dilatoriness, lag, procrastination
+懶惰，懶散 ==> indolence, slothfulness
+敏捷 ==> alacrity, promptness
+魯莽 ==> temerity, recklessness
+謹慎 ==> prudence, deliberation
+不關心，冷漠 ==> indifference, insouciance, nonchalance
+關心 ==> consideration, attention
+熱心，熱情 ==> ardor, fervor, zeal
+狡猾 ==> chicanery, sophistry, duplicity, guile, trickery, subterfuge
+率直，正直 ==> forthrightness, rectitude, integrity, probity
+仇恨 ==> rancor, antipathy, hostility, enmity, animosity, antagonism
+刻薄 ==> asperity, inclemency
+友善 ==> camaraderie, amicability, amiability, amity, comity
+報復 ==> retaliation, retribution, revenge, reprisal, vengeance
+和解 ==> reconciliation, harmonizing, rapprochement
+間斷 ==> hiatus, abeyance
+連結 ==> nexus, link, bond
+稀少，不足 ==> dearth, meagerness, scarcity, paucity, scantiness, pittance
+大量 ==> cornucopia, glut, plethora, profusion, spate, abundance, slew
+辱罵，斥責 ==> abuse, invective, obloquy, reproach, vituperation, denunciation, rebuke, reproof
+讚美 ==> accolade, commendation, eulogy, tribute, encomium, panegyric
+動搖 ==> vacillation, oscillation
+決心 ==> resolution, determination
+最低點 ==> nadir
+頂點 ==> apogee, pinnacle, summit, zenith, acme
+善變的 ==> mercurial, fickle, capricious, whimsical, volatile, skittish
+不變的 ==> abiding, enduring, steadfast
+頑抗的 ==> intractable, unruly, fractious, recalcitrant, refractory, rebellious, obstinate, stubborn, wayward, willful
+順從的 ==> amenable, docile, obedient, tractable
+堅定的 ==> unbending, adamant, obdurate, uncompromising, unyielding
+猶豫的 ==> irresolute
+易塑形的，易改變的 ==> pliant, plastic, malleable, adaptable, supple
+僵硬的，不易改變的 ==> rigid, inelastic, unbending
+易怒的 ==> irascible, choleric, irritable, peevish, petulant, sulky
+脾氣好的 ==> good-natured, even-tempered
+可鄙的 ==> despicable, contemptible
+令人尊敬的 ==> reverential, revered, venerable, deferential
+虔誠的 ==> devout, pious
+輕浮的 ==> flippant, frivolous
+敷衍的 ==> cursory, perfunctory
+認真的 ==> earnest, sober
+挑剔的 ==> fastidious, finicky, carping, captious, exacting
+有偏見的 ==> partial, partisan, jaundiced, tendentious
+公平的，公正的 ==> impartial, unbiased, disinterested, dispassionate, detached
+笨拙的 ==> maladroit, clumsy, gauche
+靈巧的 ==> deft, adept, adroit, dexterous
+易受騙的 ==> credulous, gullible, naive
+精明的 ==> astute, shrewd, wary, canny
+愚鈍的 ==> obtuse, blunt
+敏銳的 ==> acute, keen, discerning, perspicacious
+揮霍的 ==> prodigal, profligate, dissipated, improvident, spendthrift, lavish, extravagant
+節約的 ==> frugal, provident, thrifty, husbandry (n)
+吝嗇的 ==> miserly, parsimonious
+慷慨的 ==> munificent, generous, largesse (n)
+放縱的 ==> indulgent, sybaritic, licentious, dissolute, hedonistic
+貪婪的 ==> rapacious, voracious, covetous, avaricious
+節制的 ==> austere, ascetic, abstemious, self-denial (n), abstinent, temperate
+冗言的 ==> verbose, prolix, redundant, wordy, diffuse, windy, tautological, superfluous, voluble
+簡潔的 ==> laconic, succinct, concise, sententious, terse, elliptic, pithy
+愛講話的 ==> voluble, garrulous, loquacious
+沉默寡言的 ==> taciturn, reticent
+吵鬧的，不平靜的 ==> restive, boisterous, obstreperous, rambunctious
+安靜的，平靜的 ==> quiescent, tranquil, serene, halcyon
+疲倦的，睏倦的 ==> lethargic, sluggish, stupor (n), lassitude (n), torpid, languor (n)
+虛弱的 ==> effete, feeble, enervated, flimsy
+衰老的 ==> decrepit
+有活力的 ==> exuberant, ebullient, buoyant, animation (n), vital, energetic, vigorous
+冷漠的，無感的 ==> apathetic, impassive, phlegmatic, indifferent, stoic
+熱情的 ==> ardent, fervent, frolicsome, impassioned, fervid, vehement, effervescent
+陳腐的 ==> trite, banal, stale, hackneyed, derivative, clichéd, pastiche (n)
+創新的 ==> original, novel, inventive
+樸素的 ==> austere, stern
+華麗的 ==> baroque, florid, ornate, flamboyant
+貧窮的 ==> destitute, indigent, penurious, impoverished
+富裕的 ==> affluent, opulent, well-to-do
+魯莽的 ==> insolent, audacious, brazen, impudent
+有禮貌的 ==> urbane, courteous, polite
+阿諛奉承的 ==> obsequious, fawning, toadying, sycophantic, unctuous
+平凡的 ==> ordinary, pedestrian, prosaic, commonplace, quotidian
+不平凡的 ==> phenomenal, remarkable, extraordinary
+偷偷的，祕密的 ==> clandestine, covert, furtive, surreptitious, stealthy
+坦然的，公開的 ==> open, forthright, overt, aboveboard
+虛構的 ==> chimerical, fanciful, fictitious
+真實的 ==> genuine, real
+有害的 ==> deleterious, baleful, baneful, detrimental, injurious, nocuous
+有益的 ==> salutary, wholesome, salubrious
+無害的 ==> innocuous, benign
+可分辨的，可察覺的 ==> discernible, appreciable, palpable, perceptible, tangible
+難分辨的，難察覺的 ==> impalpable, intangible, insensible, imperceptible
+不明顯的 ==> impalpable, subtle, unobtrusive, inconspicuous
+潛伏的 ==> dormant, latent
+明顯的 ==> apparent, salient, evident, prominent, obtrusive, manifest, distinct
+困難的 ==> arduous, labored, strenuous, exacting, toilsome
+簡單的 ==> easy, facile, effortless
+短暫的 ==> ephemeral, transient, fleeting, evanescent, fugitive, transitory, meteoric, momentary, temporary
+永久的 ==> perpetual, eternal, enduring, everlasting
+愉悅的 ==> agreeable, pleasant, congenial, felicitous
+可怕的 ==> dire, lurid, hideous, macabre, appalling, dreadful
+難懂的 ==> esoteric, arcane, recondite, ambiguous, cryptic, occult, enigmatic, unfathomable, abstruse, profound, obscure, inscrutable, mystic, nebulous, opaque, equivocal
+易懂的 ==> accessible, pellucid, patent, comprehensible, explicit
+模糊的，不透明的 ==> opaque, murky, hazy, ambiguous, nebulous
+透明的，清楚的 ==> translucent, limpid, transparent, diaphanous
+污染的 ==> tainted, squalid, corrupt, contaminated
+純淨的 ==> pristine, pure
+勇敢的 ==> audacious, dauntless, courageous, temerity (n), intrepid, valiant, daredevil
+膽怯的 ==> timid, craven, apprehensive, pusillanimous, diffident
+嚴厲的 ==> stern, draconian, inexorable, unrelenting, rigid, exacting, stringent, inclement
+殘酷的 ==> truculent, ferocious
+惡意的 ==> malignant, malicious
+仁慈的 ==> forbearing, lax, benevolent, lenient
+無關的 ==> extraneous, irrelevant, immaterial
+有關的 ==> germane, apposite, pertinent, relevant
+刺耳的 ==> strident, jarring, discordant, cacophonous
+悅耳的 ==> mellifluous, dulcet, euphonious
+大量的 ==> ample, lavish, copious, abundant, myriad, profuse, bounteous
+過多的 ==> fulsome
+稀少的，少量的 ==> scant, exiguous, paucity (n), modicum (n), meager, tenuous
+貧瘠的 ==> barren, infertile, sterile
+青翠的 ==> verdant, lush
+巨大的 ==> titanic, vast, mammoth, gargantuan, colossal
+微小的 ==> minuscule, microscopic, infinitesimal
+鬱悶的 ==> morose, sullen, dour, saturnine, gloomy, sulky
+後悔的 ==> rueful, penitent, remorseful
+悲哀的 ==> doleful, dolorous, lugubrious, lamentable, plaintive, woeful
+多愁善感的 ==> maudlin
+沮喪的 ==> dejected, crestfallen, dispirited, disconsolate, saturnine
+快樂的，快活的 ==> jocose, jocund, jovial, blithe
+樂觀的 ==> sanguine, optimistic
+不同的，相異的 ==> disparate, divergent, diverse, dissimilar
+相似的，相等的 ==> analogous, tantamount, comparable, commensurate
+無味道的 ==> insipid, bland, vapid, flat
+味道刺激的 ==> pungent, poignant
+愚蠢的 ==> fatuous, puerile
+聰慧的 ==> sagacious, sapient, judicious
+狹隘的 ==> provincial, insular
+普遍的，全面的 ==> catholic, universal, cosmopolitan, comprehensive
+自負的，傲慢的 ==> imperious, insolent, conceited, supercilious, cavalier, haughty, overweening, self-aggrandizing
+謙虛的 ==> demure, unassuming, self-effacing
+不忠的 ==> perfidious, insurgent, mutinous, treacherous
+忠誠的 ==> loyal, faithful, staunch
+嚴肅的 ==> earnest, serious
+幽默的，開玩笑的 ==> droll, facetious, bantering, waggish
+有敵意的 ==> inimical, hostile
+友善的 ==> amiable, amicable, congenial
+散漫的 ==> remiss, desultory, sluggish
+疏忽的 ==> heedless, remiss
+勤勉的 ==> assiduous, sedulous
+沉思的 ==> pensive, cogitative, ruminative, contemplative
+謹慎的 ==> wary, scrupulous, meticulous, punctilious, discreet, gingerly, chary, circumspect
+狡猾欺騙的 ==> artful, cunning, crafty, chicanery (n), wily
+純真坦率的 ==> artless, ingenuous, unaffected, guileless
+令人討厭的 ==> odious, abominable, repugnant, opprobrious, obnoxious
+令人喜歡的 ==> agreeable, congenial
+好鬥的，好戰的 ==> bellicose, pugnacious, belligerent, contentious
+喜愛和平的 ==> peaceful, pacific, dovish
+即席的 ==> improvised, impromptu, spontaneous, extemporaneous
+有計畫的 ==> studied
